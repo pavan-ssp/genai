@@ -40,3 +40,4 @@ nltk
 emoji
 wordcloud
 spacy
+scikit-learn
