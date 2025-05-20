@@ -36,3 +36,5 @@ typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattle
 tzdata==2025.2
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
+nltk
+emoji
