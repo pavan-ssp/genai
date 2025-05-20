@@ -38,3 +38,5 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_173323132628
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
 nltk
 emoji
+wordcloud
+spacy
