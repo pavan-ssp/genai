@@ -41,3 +41,12 @@ emoji
 wordcloud
 spacy
 scikit-learn
+langchain
+langchain_community
+langchain_openai
+langchain_community_openai
+langchain_core
+langchain_groq
+langchain_community_groq    
+langchain_community_groq_openai
+langchain_community_groq_core
